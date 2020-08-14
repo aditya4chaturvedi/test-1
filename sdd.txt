@@ -13,3 +13,5 @@ This is test commit
 No wait there is error
 
 Testing rebase
+
+or testing the two ways sync
