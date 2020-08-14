@@ -11,3 +11,5 @@ Sayonara!
 This is test commit
 
 No wait there is error
+
+Testing rebase
